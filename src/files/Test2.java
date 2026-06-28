@@ -7,6 +7,7 @@ public class Test2 {
 		
 		System.out.println("branchX");
 		System.out.println("on branch X to check");
+		System.out.println("pushing from master");
 
 	}
 
