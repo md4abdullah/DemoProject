@@ -6,6 +6,7 @@ public class Test2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("branchX");
+		System.out.println("on branch X to check");
 
 	}
 
